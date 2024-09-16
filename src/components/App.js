@@ -5,8 +5,7 @@ import './../styles/App.css';
 const App = () => {
   return (
     <div>
-        {/* Do not remove the main div */}
-        <h1>Headings</h1>
+        <p>I am learning React. My life is getting better.</P>
     </div>
   )
 }
